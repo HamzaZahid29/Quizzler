@@ -18,10 +18,10 @@ This Flutter app is a quiz application called "Quizzler" that I developed during
 
 Insert screenshots or GIFs of your app to showcase its UI and features. You can include multiple images here to give users a visual overview of your app.
 
-[Demo 1](/screenshots/demo1.jpg)
-[Demo 2](/screenshots/demo2.jpg)
-[Demo 3](/screenshots/demo3.jpg)
-[Demo 4](/screenshots/demo3.jpg)
+
+[Demo 1](demo2.jpg)
+[Demo 2](demo3.jpg)
+[Demo 3](demo3.jpg)
 
 ## Dependencies
 
